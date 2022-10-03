@@ -26,6 +26,9 @@ font-size: 21px;
     color: #00aead;
 
  }
+ a:hover{
+    text-decoration:underline;
+ }
  .ptag{
     text-align: center;
     padding: 10px;
